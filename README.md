@@ -1,9 +1,13 @@
 LoL_AntiAFK Bot
 ========
--Self-walking at base
--Prevent Lever Buster
+Developed by using AutoIt3 
 
-If your team report you , i don't know.
+Function:
+-Self-walking at base
+-Prevent Leaverbuster
+
+Warning*:
+If your team report you, I don't know.
 
 
 
